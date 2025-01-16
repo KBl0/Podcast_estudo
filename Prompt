@@ -1,0 +1,12 @@
+"Crie um roteiro para um podcast de aproximadamente 15 minutos sobre SQL (Structured Query Language), direcionado para um público iniciante em programação e análise de dados. O podcast deve ter um formato de conversa entre dois apresentadores, Ana e Bruno, onde Ana representa o ouvinte iniciante e Bruno o especialista em bancos de dados.
+
+O roteiro deve incluir:
+
+Introdução: Apresentação dos apresentadores e do tema.
+Definição de SQL: Explicação clara e concisa do que é SQL e para que serve, usando analogias e exemplos práticos (como planilhas Excel).
+Conceito de Bancos de Dados Relacionais: Explicação sobre o que são bancos de dados relacionais e como eles se diferenciam de outros tipos de bancos de dados.
+Comandos SQL Essenciais: Abordar os comandos SELECT, INSERT, UPDATE, DELETE, WHERE, JOIN e GROUP BY, com exemplos práticos e explicações de quando e como utilizá-los. Incluir um exemplo prático do comando SELECT com a criação de uma tabela hipotética "Produtos" com as colunas "Nome", "Preço" e "Categoria".
+Dicas para Iniciantes: Sugestões de como começar a aprender SQL, recursos online, melhores práticas e armadilhas a evitar.
+Aplicações Profissionais do SQL: Mencionar as áreas profissionais que utilizam SQL e a importância do conhecimento em SQL no mercado de trabalho.
+Conclusão: Resumo dos principais pontos abordados e encerramento do podcast.
+O tom da conversa deve ser informal e didático, buscando tornar o tema acessível e interessante para o público iniciante. Inclua também uma breve introdução musical e uma vinheta de encerramento."
